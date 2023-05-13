@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air"  # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "테디노트 세컨블로그"
+title                    : "질환별 정보 및 양한방치료 안내"
 title_separator          : "|"
-subtitle                 : "오늘 하루도 성장했다."
-name                     : "Teddy"
-description              : "나만의 기술 블로그 입니다."
-url                      : "https://teddynote.github.io"
+subtitle                 : "청구경희한의원"
+name                     : "Koreadoctor Kim"
+description              : "질환별 특징, 예후, 원인, 치료, 경과 등에 대해 안내해드리기 위해 정리한 사이트입니다."
+url                      : "https://rukidding0918.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:teddylee777@email.com"
+      url: "mailto:rukidding@khu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://teddynote.github.io"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/teddylee777"
+      url: "https://github.com/rukidding0918"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/teddylee777"
+      url: "https://github.com/rukidding0918"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
